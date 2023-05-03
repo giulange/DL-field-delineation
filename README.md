@@ -25,6 +25,10 @@ stored in S3 buckets, which need to be [adequately configured](https://docs.sent
 
 ### Installation
 
+#### by Giuliano
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/giulange/DL-field-delineation/HEAD)
+
 The `fd` Python 3.5+ package allows to execute the end-to-end field delineation workflow.
 
 To install the `fd` package, clone locally the repository, and from within the repository, run the following commands:
